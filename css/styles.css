@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#myCanvas {
+  background: #eee;
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #eee;
+  text-align: center;
+  color: #0095DD;
+}
+
+a {
+   color:inherit;
+}
